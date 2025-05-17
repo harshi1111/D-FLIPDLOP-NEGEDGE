@@ -1,4 +1,4 @@
-# EX 7 - D FLIPDLOP NEGEDGE
+# EX 8 - D FLIPDLOP NEGEDGE
 
 ### Developed by: HARSHITHA V
 ### RegisterNumber: 212223230074
